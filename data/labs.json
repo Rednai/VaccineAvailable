@@ -1,0 +1,52 @@
+[
+    {
+        "name"    : "Centre de Vaccination - UC IRSA - Le Mans - Vaccination Covid-19",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2540874&agenda_ids=408429&insurance_sector=public&practice_ids=163601&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/le-mans/centre-de-vaccination-uc-irsa?pid=practice-163601"
+    },
+    {
+        "name"    : "Centre Départemental de Vaccination de Grande Capacité - Sarthe",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2763044&agenda_ids=454926-455082-454930-454925-454910-454912-470341-454922-454916-468138-454909-454929-456285-455079-454919-454920-454921-455083-455080-454915&insurance_sector=public&practice_ids=182151&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/le-mans/centre-de-vaccination-la-rotonde-du-centre-des-exposition-du-mans?pid=practice-182151"
+    },
+    {
+        "name"    : "Centre de vaccination Covid-19 de Coulaines",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2755845&agenda_ids=452966-452980&insurance_sector=public&practice_ids=181626&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/coulaines/centre-de-vaccination-covid-19-de-coulaines?pid=practice-181626"
+    },
+    {
+        "name"    : "Centre de vaccination Covid-19 du Sud Est Manceau",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2740014&agenda_ids=475265-450259&insurance_sector=public&practice_ids=180299&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/change/centre-de-vaccination-covid-19-du-sud-est-manceau?pid=practice-180299"
+    },
+    {
+        "name"    : "Centre de vaccination Covid-19 - Orée de Bercé-Belinois",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2752061&agenda_ids=464861-451673-451672&insurance_sector=public&practice_ids=181213&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/ecommoy/centre-de-vaccination-covid-19-belinois?pid=practice-181213"
+    },
+    {
+        "name"    : "Centre de Vaccination COVID-19 Saint Mars La Brière",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2727515&agenda_ids=445645-445644&insurance_sector=public&practice_ids=179196&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/saint-mars-la-briere/centre-de-vaccination-covid-19-saint-mars-la-briere?pid=practice-179196"
+    },
+    {
+        "name"    : "Centre de vaccination covid-19 - Centre du Val de Sarthe",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2778832&agenda_ids=462161&insurance_sector=public&practice_ids=183130&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/la-suze-sur-sarthe/centre-de-vaccination-covid-19-centre-de-la-suze-sur-sarthe?pid=practice-183130"
+    },
+    {
+        "name"    : "Centre de vaccination Covid-19 - Montbizot",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2773687&agenda_ids=462119&insurance_sector=public&practice_ids=182841&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/montbizot/centre-de-vaccination-covid-19-montbizot?pid=practice-182841"
+    },
+    {
+        "name"    : "Centre de Vaccination Covid du Pays de Sillé",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2689467&agenda_ids=411467-411200&insurance_sector=public&practice_ids=164841&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/sille-le-guillaume/centre-de-vaccination-covid-du-pays-de-sille?pid=practice-164841"
+    },
+    {
+        "name"    : "Centre de Vaccination COVID-19 de Montval-sur-Loir",
+        "request" : "https://www.doctolib.fr/availabilities.json?start_date=XXXX&visit_motive_ids=2559266&agenda_ids=449892-471503&insurance_sector=public&practice_ids=165981&destroy_temporary=true&limit=4",
+        "url"     : "https://www.doctolib.fr/centre-de-sante/montval-sur-loir/centre-de-vaccination-covid-19-de-montval-sur-loir?pid=practice-165981"
+    }
+]

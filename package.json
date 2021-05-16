@@ -1,0 +1,27 @@
+{
+  "name": "vaccin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.1",
+    "open": "^8.0.8"
+  },
+  "bin": "app.js",
+  "pkg": {
+    "assets": [
+      "assets/**/*",
+      "data/*"
+    ],
+    "outputPath": "dist"
+  }
+}
